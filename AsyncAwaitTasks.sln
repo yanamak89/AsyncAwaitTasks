@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncContextManager", "AsyncContextManager\AsyncContextManager.csproj", "{800BDCEA-6283-49AD-9B35-6F3D59333508}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncContextManagerSecondEx", "AsyncContextManagerSecondEx\AsyncContextManagerSecondEx.csproj", "{C7575FC9-76BD-4E6D-8537-8ECE9EF7A640}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ErrorHandlingApp", "ErrorHandlingApp\ErrorHandlingApp.csproj", "{7C90237E-AE1C-4FA8-B954-B1EF0F2F22AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{800BDCEA-6283-49AD-9B35-6F3D59333508}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{800BDCEA-6283-49AD-9B35-6F3D59333508}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{800BDCEA-6283-49AD-9B35-6F3D59333508}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{800BDCEA-6283-49AD-9B35-6F3D59333508}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7575FC9-76BD-4E6D-8537-8ECE9EF7A640}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7575FC9-76BD-4E6D-8537-8ECE9EF7A640}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7575FC9-76BD-4E6D-8537-8ECE9EF7A640}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7575FC9-76BD-4E6D-8537-8ECE9EF7A640}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C90237E-AE1C-4FA8-B954-B1EF0F2F22AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C90237E-AE1C-4FA8-B954-B1EF0F2F22AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C90237E-AE1C-4FA8-B954-B1EF0F2F22AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C90237E-AE1C-4FA8-B954-B1EF0F2F22AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
